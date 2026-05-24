@@ -24,10 +24,6 @@
 | 6 | Cable Pallof Press               | 3 × 10/side     | 45 sec |
 | 7 | Dead Bug                         | 3 × 10/side     | 30 sec |
 
-### Finisher
-
-- Incline Walk — 10 min at 10-12% grade
-
 **Time: ~45 min**
 
 ---
@@ -51,10 +47,6 @@
 | 5 | Cable Face Pulls               | 3 × 15      | 45 sec |
 | 6 | Tricep Pushdown                | 3 × 12-15   | 45 sec |
 | 7 | Open Book Stretch              | 2 × 8/side  | —      |
-
-### Finisher
-
-- Bike — 10 min moderate pace
 
 **Time: ~45 min**
 
@@ -112,10 +104,6 @@ Rest 60 sec between rounds
 | 8 | Side Plank                 | 3 × 30 sec/side | —      |
 
 > Single-arm row trimmed to 2 sets to reduce grip and erector fatigue before Friday's deadlift.
-
-### Finisher
-
-- Stair Climber — 10 min moderate pace
 
 **Time: ~50 min**
 
